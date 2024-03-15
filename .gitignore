@@ -1,5 +1,4 @@
-./etc/odoo-server.log
-./postgresql/*
-./etc/addons/*
-./etc/filestore/*
-./etc/sessions/*
+/etc/filestore
+etc/odoo-server.log
+/etc/sessions
+/postgresql
